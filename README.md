@@ -29,3 +29,12 @@ The Station's Performance Analytics Dashboard focuses on station-specific metric
 
 ## Conclusion
 The analysis of the Citi Bike data reveals significant insights into ridership patterns and station performance. Key findings include the dramatic growth in trips at specific stations, notable differences in trip durations by gender and user type, and peak usage times aligning with commuting hours. These insights can help enhance urban mobility and inform strategic decisions to improve the Citi Bike program for all users.
+
+## Resources
+- ASU/EdX Tutoring
+- Class Activities
+- A. Gupta, tutoring sessions
+- https://www.tableau.com/?_ga=2.211708560.402230115.1717543965-61373120.1717283660
+- https://www.youtube.com/watch?v=fO7g0pnWaRA
+- https://www.youtube.com/watch?v=bI7CcCnrR-k
+- https://www.youtube.com/watch?v=77dMjHL_AkQ
