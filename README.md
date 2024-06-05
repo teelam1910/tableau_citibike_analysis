@@ -1,6 +1,6 @@
 # Citi Bike Data Analysis Report
 
-https://public.tableau.com/app/profile/tiffany.la.mar/viz/CitiBikesDashboard_17176075596810/UserDashboard?publish=yes
+Access Public Tableau: https://public.tableau.com/app/profile/tiffany.la.mar/viz/CitiBikesDashboard_17176075596810/UserDashboard?publish=yes
 
 ## Introduction
 This report presents an analysis of the Citi Bike ridership data, focusing on two main dashboards: the User Analytics Dashboard and the Station's Performance Analytics Dashboard. These dashboards provide insights into trip durations, popular stations, user demographics, and station-specific metrics. The analysis aims to uncover trends and patterns to enhance urban mobility and improve the Citi Bike program.
